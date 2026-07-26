@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:52:22.121Z",
+  "generated_at": "2026-10-29T13:52:24.150Z",
   "items": {
     "problem:18": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2026-07-12T06:07:47.874Z",
       "language": "python",
       "lines": 21
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-07-26T13:34:09.425Z",
+      "last_pushed_at": "2026-07-26T13:34:09.425Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-07-26T15:12:48.331Z",
+      "last_pushed_at": "2026-07-26T15:12:48.331Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-07-26T15:43:17.715Z",
+      "last_pushed_at": "2026-07-26T15:43:17.715Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-07-26T18:26:38.250Z",
+      "last_pushed_at": "2026-07-26T18:26:38.250Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
