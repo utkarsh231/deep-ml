@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:52:35.296Z",
+  "generated_at": "2026-10-29T13:52:37.307Z",
   "items": {
     "problem:18": {
       "kind": "problem",
@@ -219,6 +219,45 @@
       "path": "problems/0017-k-means-clustering",
       "first_solved_at": "2026-08-25T08:37:29.898Z",
       "last_pushed_at": "2026-08-25T08:37:29.898Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-08-26T15:59:03.819Z",
+      "last_pushed_at": "2026-08-26T15:59:03.819Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-26T16:08:04.161Z",
+      "last_pushed_at": "2026-08-26T16:08:04.161Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:231": {
+      "kind": "problem",
+      "id": "231",
+      "title": "Temperature Decay Scheduler",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/231",
+      "path": "problems/0231-temperature-decay-scheduler",
+      "first_solved_at": "2026-08-26T16:21:32.459Z",
+      "last_pushed_at": "2026-08-26T16:21:32.459Z",
       "language": "python",
       "lines": 51
     }
