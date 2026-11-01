@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 30 problems · 1 labs · 0 math
+**32** solved · 31 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-19 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-08-26 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Thread-Safe Producer-Consumer Bounded Buffer](https://www.deep-ml.com/problems/1100) | medium | 2026-09-02 | [solution](problems/1100-thread-safe-producer-consumer-bounded-buffer) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-01 | [solution](problems/0020-decision-tree-learning) |
 | [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-09-01 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
 
 ## Labs
